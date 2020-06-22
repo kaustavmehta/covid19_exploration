@@ -1,3 +1,9 @@
 [submodule "OWiD_data/covid-19-data"]
 	path = OWiD_data/covid-19-data
 	url = https://github.com/owid/covid-19-data
+[submodule "John_Hopkins_dataset/COVID-19"]
+	path = John_Hopkins_dataset/COVID-19
+	url = https://github.com/CSSEGISandData/COVID-19
+[submodule "Our_World_in_Data_dataset/covid-19-data"]
+	path = Our_World_in_Data_dataset/covid-19-data
+	url = https://github.com/owid/covid-19-data
